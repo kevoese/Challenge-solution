@@ -1,2 +1,3 @@
 # challenge-solution
-Challenge solutions
+
+**To start run npm start on your terminal**

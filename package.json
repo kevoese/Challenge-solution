@@ -1,0 +1,19 @@
+{
+  "name": "challenge-solution",
+  "version": "1.0.0",
+  "description": "Challenge solutions",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevoese/challenge-solution.git"
+  },
+  "author": "Kelvin ese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevoese/challenge-solution/issues"
+  },
+  "homepage": "https://github.com/kevoese/challenge-solution#readme"
+}
